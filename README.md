@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello world 👋
+This is just my alt account. My main account is actually duc-minh-coder. LOL
 <!--
 **ducminhcoder/ducminhcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
